@@ -1,0 +1,35 @@
+# app-ads.txt — Xico Games
+# This file authorizes ad networks to serve ads within Xico Games applications.
+# It must be accessible at: https://xicogames.github.io/app-ads.txt
+#
+# Format: <ad network domain>, <publisher ID>, <relationship type>, <certification authority ID>
+#
+# ── Google AdMob ──
+# IMPORTANT: Replace pub-XXXXXXXXXXXXXXXXX with your actual AdMob Publisher ID.
+# Find your Publisher ID in: AdMob Console → Account → Account information
+#
+google.com, pub-XXXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# ── Additional networks (uncomment and fill in if used) ──
+#
+# Unity Ads:
+# unity.com, <your-game-id>, DIRECT
+#
+# Meta Audience Network:
+# facebook.com, <your-app-id>, DIRECT
+#
+# AppLovin:
+# applovin.com, <your-sdk-key>, DIRECT
+#
+# ironSource:
+# ironsrc.com, <your-app-key>, DIRECT
+#
+# Vungle / Liftoff:
+# vungle.com, <your-app-id>, DIRECT
+#
+# ── Notes ──
+# - Lines beginning with # are comments and are ignored by crawlers.
+# - DIRECT means you have a direct commercial relationship with the ad network.
+# - RESELLER means you are authorizing a company to resell ad space on your behalf.
+# - The certification authority ID (last field) is optional but recommended for Google.
+# - Update this file whenever you add or remove an ad network.

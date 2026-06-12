@@ -8,7 +8,8 @@
 # IMPORTANT: Replace pub-XXXXXXXXXXXXXXXXX with your actual AdMob Publisher ID.
 # Find your Publisher ID in: AdMob Console → Account → Account information
 #
-google.com, pub-XXXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-9035385094051405, DIRECT, f08c47fec0942fa0
+tappx.com, b6eadf313, DIRECT, 9f375a07da0318ec
 #
 # ── Additional networks (uncomment and fill in if used) ──
 #

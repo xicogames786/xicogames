@@ -363,6 +363,7 @@ ul { list-style: none; }
 .game-card:nth-child(1) .game-thumb { background: linear-gradient(135deg, #1a0533, #3b0b6b); }
 .game-card:nth-child(2) .game-thumb { background: linear-gradient(135deg, #001a2e, #003d5c); }
 .game-card:nth-child(3) .game-thumb { background: linear-gradient(135deg, #0d1f0d, #0d3b1f); }
+.game-thumb img { border-radius: 16px; width: 96px; height: 96px; box-shadow: 0 8px 24px rgba(0,0,0,0.4); }
 .game-body { padding: 1.4rem; }
 .game-title {
   font-family: var(--font-display);
